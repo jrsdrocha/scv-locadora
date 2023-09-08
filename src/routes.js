@@ -2,7 +2,7 @@ import express, { Router } from "express";
 import { ArtistaController } from "./controller/ArtistaController.js";
 import { BairroController } from "./controller/BairroController.js";
 import { CidadeController } from './controller/CidadeController.js'
-import { ClienteController } from "./controller/CLienteController.js";
+import { ClienteController } from "./controller/ClienteController.js";
 import { DevolucaoController } from "./controller/DevolucaoController.js";
 import { DiretorController } from "./controller/DiretorController.js";
 import { FitaController } from "./controller/FitaController.js";
