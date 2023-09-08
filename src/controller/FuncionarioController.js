@@ -1,4 +1,4 @@
-import { FuncionarioService } from "../services/FUncionarioService.js";
+import { FuncionarioService } from "../services/FuncionarioService.js";
 
 class FuncionarioController {
     static async findAll(req, res, next) {
