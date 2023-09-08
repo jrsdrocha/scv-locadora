@@ -10,7 +10,7 @@ import { FuncionarioController } from "./controller/FuncionarioController.js";
 import { GerenteController } from "./controller/GerenteController.js";
 import { TipoDeFilmeController } from './controller/TipoDeFilmeController.js'
 import { UfController } from './controller/UfController.js'
-import { FilmeController } from "./controller/FilmeCOntroller.js";
+import { FilmeController } from "./controller/FilmeController.js";
 import { EmprestimoController } from "./controller/EmprestimoController.js";
 import { ReservaController } from './controller/ReservaController.js';
 import { MultaController } from './controller/MultaController.js';
